@@ -3,3 +3,4 @@ In this assignment, I will be required to explore, segment, and cluster the neig
 ## This is unfinished map:
 ![Map1](https://user-images.githubusercontent.com/62917455/87896126-a6e90800-ca47-11ea-960f-ac2df8b69c7c.png)
 ## This is the finished one:
+![Map 2](https://user-images.githubusercontent.com/62917455/87896331-2f67a880-ca48-11ea-999c-0aa2e33a5c3a.png)
